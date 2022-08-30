@@ -18,6 +18,6 @@ Run the first cell to simply import all of the necessary libraries.
 
 Run the second cell only once to create the file system, and then put the .czi scans in `images/CZI/`.
 
-From there you can run the rest of the cells and they will output the intensity analysis and cell-count analysis. 
+From there you can run the rest of the cells and they will print out the intensity analysis and cell-count analysis. 
 
 Be wary that based on the image size, running the program can take some time.
